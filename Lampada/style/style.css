@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(127, 155, 145);
+}
+main {
+    margin-top: 200px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+button {
+    width: 80px;
+}
